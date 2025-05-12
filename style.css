@@ -107,6 +107,10 @@ ul {
     list-style: none;
 }
 
+.hidden {
+    display: none !important;
+}
+
 .fact-form {
     background-color: #44403c;
     margin-bottom: 40px;
